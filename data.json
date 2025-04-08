@@ -1,0 +1,34 @@
+[
+    {
+        "prompt":"I forgot my password, can you help me reset it, I am on a Windows laptop?",
+        "Solution":"To reset your password on a Windows laptop, you can follow these steps:Go to the login screen and click on 'Forgot Password' or a similar option. Follow the on-screen instructions to verify your identity. Choose a new password and confirm the changes. If you encounter any issues, please let us know."
+    },
+    {
+        "prompt":"I'm locked out of my account, can you help?",
+        "Solution":"If you're locked out of your account, please go to the login page and click on 'Forgot Password' or a similar option. Follow the prompts to verify your identity and reset your password. If you need further assistance, feel free to reach out to our support team."
+    },
+    {
+        "prompt":"I can't send/receive emails. What's wrong?",
+        "Solution":"If you're facing issues with sending or receiving emails, check your internet connection and ensure your email settings are configured correctly. Verify your login credentials and if the problem persists, contact our support team for assistance."
+    },
+    {
+        "prompt":"How do I set up my email on a new device?",
+        "Solution":"To set up your email on a new device, access the email settings and enter the required information such as incoming and outgoing server details, username, and password. If you need specific instructions, please let us know the email provider and device you're using for further assistance."
+    },
+    {
+        "prompt":"I need help installing [software].",
+        "Solution":"To install [software], visit the official website and download the latest version. Follow the installation wizard, and if you encounter any issues, check the system requirements or contact our support team for guidance."
+    },
+    {
+        "prompt":"This program is not working properly. Can you troubleshoot?",
+        "Solution":"If the program is not working as expected, ensure it's updated to the latest version. Check for error messages, review system requirements, and consider reinstalling the software. If the issue persists, contact our support team with details for further troubleshooting."
+    },
+    {
+        "prompt":"My computer won't turn on. What should I do?",
+        "Solution":"If your computer won't turn on, check the power source, ensure all cables are properly connected, and try a different power outlet. If the issue persists, it may be a hardware problem, and you should contact our support team or consult with a technician for further assistance."
+    },
+    {
+        "prompt":"There's a problem with my printer. Can you fix it?",
+        "Solution":"If you're experiencing issues with your printer, check the connections, ensure there is paper and ink, and restart both the printer and your computer. If the problem persists, consult the printer manual for troubleshooting steps or contact our support team for assistance."
+    }
+]
